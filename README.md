@@ -1,6 +1,6 @@
 # Human Activity Recognition with LSTMs
 
-![](./screenshot/demo.jpg)
+<img src="./screenshot/demo.jpg" width=250>
 
 
 ## Reference
